@@ -10,10 +10,11 @@
   "dependencies": {
     "@fancyapps/fancybox": "^3.5.7",
     "@fortawesome/fontawesome-free": "^5.13.0",
-    "air-datepicker": "^2.2.3",
+    "gulp-cli": "^2.3.0",
     "jquery-nice-select": "^1.1.0",
-    "jquery.maskedinput": "^1.4.1",
+    "magnific-popup": "^1.1.0",
     "scrollreveal": "^4.0.6",
+    "slick-carousel": "^1.8.1",
     "swiper": "^5.3.6"
   },
   "devDependencies": {
@@ -22,15 +23,16 @@
     "gulp-autoprefixer": "^6.1.0",
     "gulp-cache": "^1.1.2",
     "gulp-clean-css": "^4.2.0",
-    "gulp-rimraf": "^0.2.2",
     "gulp-imagemin": "^6.0.0",
     "gulp-plumber": "^1.2.1",
+    "gulp-rename": "^1.4.0",
     "gulp-rigger": "^0.5.8",
+    "gulp-rimraf": "^0.2.2",
     "gulp-sass": "^4.0.2",
     "gulp-sourcemaps": "^2.6.5",
     "gulp-uglify": "^3.0.2",
     "imagemin-jpeg-recompress": "^6.0.0",
-    "imagemin-pngquant": "^8.0.0",
-    "gulp-rename": "^1.4.0"
-  }
+    "imagemin-pngquant": "^8.0.0"
+  },
+  "optionalDependencies": {}
 }

@@ -1,158 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="677dd82e-cc50-45d3-a9b3-0ee18411fd00" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/administration.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/contacts.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/documents.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/finance.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Black.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Black.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Black.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Black.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BlackItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BlackItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BlackItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BlackItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Bold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Bold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Bold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Bold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-BoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLight.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLight.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLight.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLight.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLightItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ExtraLightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Heavy.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Heavy.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Heavy.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Heavy.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-HeavyItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-HeavyItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-HeavyItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-HeavyItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Light.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Light.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Light.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Light.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-LightItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-LightItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-LightItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-LightItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-RegularItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-RegularItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-RegularItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-RegularItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBold.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBold.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBold.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBold.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBoldItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBoldItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBoldItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-SemiBoldItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Thin.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Thin.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Thin.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-Thin.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ThinItalic.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ThinItalic.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ThinItalic.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/Mont-ThinItalic.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-brands-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-brands-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-brands-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-brands-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-brands-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-regular-400.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-regular-400.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-regular-400.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-regular-400.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-regular-400.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-solid-900.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-solid-900.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-solid-900.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-solid-900.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/fonts/fa-solid-900.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/home.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/about.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/arrow-beige.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/arrow-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/arrow-gray.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/arrow-green.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/arrow-white.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/bg-1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/bg-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/check.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/close.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/contacts-decor.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/decor-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/doc.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/doc.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/icon-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/icon-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/icon-3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/icon-4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/icon-add.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/icon-profile.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/img-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/img.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/location.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/logo-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/logo-white.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/logo.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/management.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/material-decor.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/material.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/offline.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/online.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/person.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/project-decor-1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/project-decor-2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/project-decor.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/quote.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/room-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/img/room-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/js/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/js/scripts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/js/slick-slider/slick.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/js/slick-slider/slick.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/lk-main.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/lk.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/material.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/news.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/otziv.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/project.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/fancybox.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/main.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/media-fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/mixins.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/my.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/reset.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/typical.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/style/variables.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/teatcher.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/template/assets.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/template/head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gulpfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-    </list>
+    <list default="true" id="677dd82e-cc50-45d3-a9b3-0ee18411fd00" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -164,9 +13,19 @@
     </execution>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="edits" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1dXDXkU0PtsYIv9ko20bwAr2C6C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -177,7 +36,18 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="677dd82e-cc50-45d3-a9b3-0ee18411fd00" name="Default Changelist" comment="" />
+      <created>1592655587692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592655587692</updated>
+      <workItem from="1592655588923" duration="372000" />
+    </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="606" y="166" key="MultipleFileMergeDialog" timestamp="1592654056411">
